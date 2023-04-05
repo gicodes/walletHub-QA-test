@@ -1,0 +1,23 @@
+{
+  "name": "write_tests",
+  "version": "1.0.0",
+  "description": "This documentation is a solution to WalletHub's *Manual Test 1*,",
+  "main": "case1.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gicodes/wallethub_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gicodes/wallethub_test/issues"
+  },
+  "homepage": "https://github.com/gicodes/wallethub_test#readme",
+  "dependencies": {
+    "jsdom": "^21.1.1"
+  }
+}
