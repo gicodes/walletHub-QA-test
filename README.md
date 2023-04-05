@@ -6,9 +6,6 @@ written by Gideon Iduma.
 
 ---
 
-<<<<<<< HEAD
-### Testing the profile photo uploading process on WalletHub
-=======
 ### Testing the profile photo upload process on WalletHub
 
 #### Task:
@@ -24,7 +21,6 @@ As you go through the uploading process, you must confirm each time that the ima
 Next to each testing scenerio, please record if it worked ok and if not what issue you observed.
 
 #### Solution:
->>>>>>> e3eaacb (added instructions to README, package.json and package-lock.json to root)
 
 Test cases for uploading a profile photo can be gotten by evaluating the function and options available to a user in the process of uploading a profile photo. Like, what does the user do, what does the user expect and how does the function respond. These are what determines the cases to test.
 
